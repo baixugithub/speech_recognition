@@ -1,0 +1,144 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+G:\university_study\study_data\STM32_Data\TEST\”Ô“Ù ∂±\Project\Pro\LD3320_Demo.uvproj
+Project File Date:  05/10/2015
+
+<h2>Output:</h2>
+Build target 'LD3320_Demo'
+compiling main.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\user\src\main.c: 0 warnings, 1 error
+compiling stm32f10x_it.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\user\src\stm32f10x_it.c: 0 warnings, 1 error
+compiling LD3320_main.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\Hardware\src\LD3320_main.c: 0 warnings, 1 error
+compiling LDChip.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\Hardware\src\LDChip.c: 0 warnings, 1 error
+compiling Reg_RW.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\Hardware\src\Reg_RW.c: 0 warnings, 1 error
+compiling LED.C...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\Hardware\src\LED.C: 0 warnings, 1 error
+assembling startup_stm32f10x_md.s...
+compiling system_stm32f10x.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\CMSIS\STM32F10x\system_stm32f10x.c: 0 warnings, 1 error
+compiling core_cm3.c...
+compiling misc.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\Libraries\src\misc.c: 0 warnings, 1 error
+compiling stm32f10x_gpio.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\Libraries\src\stm32f10x_gpio.c: 0 warnings, 1 error
+compiling stm32f10x_rcc.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\Libraries\src\stm32f10x_rcc.c: 0 warnings, 1 error
+compiling stm32f10x_usart.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\Libraries\src\stm32f10x_usart.c: 0 warnings, 1 error
+compiling stm32f10x_exti.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\Libraries\src\stm32f10x_exti.c: 0 warnings, 1 error
+compiling stm32f10x_spi.c...
+..\..\CMSIS\STM32F10x\stm32f10x.h(96): error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:    #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+..\..\CMSIS\STM32F10x\stm32f10x.h:     ^
+..\..\CMSIS\STM32F10x\stm32f10x.h: ..\..\Libraries\src\stm32f10x_spi.c: 0 warnings, 1 error
+compiling delay.c...
+..\..\system\src\delay.c(1): error:  #5: cannot open source input file "delay.h": No such file or directory
+..\..\system\src\delay.c:   #include "delay.h"
+..\..\system\src\delay.c:                     ^
+..\..\system\src\delay.c: ..\..\system\src\delay.c: 0 warnings, 1 error
+compiling system.c...
+..\..\system\src\system.c(1): error:  #5: cannot open source input file "system.h": No such file or directory
+..\..\system\src\system.c:   #include "system.h"
+..\..\system\src\system.c:                      ^
+..\..\system\src\system.c: ..\..\system\src\system.c: 0 warnings, 1 error
+compiling usart.c...
+..\..\system\src\usart.c(1): error:  #5: cannot open source input file "system.h": No such file or directory
+..\..\system\src\usart.c:   #include "system.h"
+..\..\system\src\usart.c:                      ^
+..\..\system\src\usart.c: ..\..\system\src\usart.c: 0 warnings, 1 error
+Target not created
+Build target 'LD3320_Demo'
+compiling main.c...
+..\..\Hardware\inc\includes.h(19): error:  #5: cannot open source input file "LEDtest.h": No such file or directory
+..\..\Hardware\inc\includes.h:   #include "LEDtest.h"
+..\..\Hardware\inc\includes.h:                       ^
+..\..\Hardware\inc\includes.h: ..\..\user\src\main.c: 0 warnings, 1 error
+compiling stm32f10x_it.c...
+compiling LD3320_main.c...
+..\..\Hardware\inc\includes.h(19): error:  #5: cannot open source input file "LEDtest.h": No such file or directory
+..\..\Hardware\inc\includes.h:   #include "LEDtest.h"
+..\..\Hardware\inc\includes.h:                       ^
+..\..\Hardware\inc\includes.h: ..\..\Hardware\src\LD3320_main.c: 0 warnings, 1 error
+compiling LDChip.c...
+..\..\Hardware\inc\includes.h(19): error:  #5: cannot open source input file "LEDtest.h": No such file or directory
+..\..\Hardware\inc\includes.h:   #include "LEDtest.h"
+..\..\Hardware\inc\includes.h:                       ^
+..\..\Hardware\inc\includes.h: ..\..\Hardware\src\LDChip.c: 0 warnings, 1 error
+compiling Reg_RW.c...
+..\..\Hardware\inc\includes.h(19): error:  #5: cannot open source input file "LEDtest.h": No such file or directory
+..\..\Hardware\inc\includes.h:   #include "LEDtest.h"
+..\..\Hardware\inc\includes.h:                       ^
+..\..\Hardware\inc\includes.h: ..\..\Hardware\src\Reg_RW.c: 0 warnings, 1 error
+compiling LED.C...
+..\..\Hardware\inc\includes.h(19): error:  #5: cannot open source input file "LEDtest.h": No such file or directory
+..\..\Hardware\inc\includes.h:   #include "LEDtest.h"
+..\..\Hardware\inc\includes.h:                       ^
+..\..\Hardware\inc\includes.h: ..\..\Hardware\src\LED.C: 0 warnings, 1 error
+compiling system_stm32f10x.c...
+compiling core_cm3.c...
+compiling misc.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_exti.c...
+compiling stm32f10x_spi.c...
+compiling delay.c...
+..\..\system\src\delay.c(1): error:  #5: cannot open source input file "delay.h": No such file or directory
+..\..\system\src\delay.c:   #include "delay.h"
+..\..\system\src\delay.c:                     ^
+..\..\system\src\delay.c: ..\..\system\src\delay.c: 0 warnings, 1 error
+compiling system.c...
+..\..\system\src\system.c(1): error:  #5: cannot open source input file "system.h": No such file or directory
+..\..\system\src\system.c:   #include "system.h"
+..\..\system\src\system.c:                      ^
+..\..\system\src\system.c: ..\..\system\src\system.c: 0 warnings, 1 error
+compiling usart.c...
+..\..\system\src\usart.c(1): error:  #5: cannot open source input file "system.h": No such file or directory
+..\..\system\src\usart.c:   #include "system.h"
+..\..\system\src\usart.c:                      ^
+..\..\system\src\usart.c: ..\..\system\src\usart.c: 0 warnings, 1 error
+Target not created

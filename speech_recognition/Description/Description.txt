@@ -1,0 +1,28 @@
+/*******************************************************************************  
+* 文件名称：语音识别系统应用
+* 实验目的：1、掌握STM32外设LD3320的配置和使用方法
+*			2、熟悉LD3320语音识别模式的配置，实现语音识别
+*
+* 程序说明：1、在LDChip.h中晶振的频率需要改变，改为22.1184
+*************端口信息********************
+* 接线说明
+* RST      PB6
+* CS   	PA4//使能ld3320
+* WR/SPIS  PC4
+* P2/SDCK  PA5
+* P1/SDO   PA6
+* P0/SDI   PA7
+* IRQ      PC1
+* A0		PB7
+* RD       PA0
+*****************************************
+In recent years, with the dramatic development of science and technology, the intelligent control products are jumping to people's daily life. The generation of speech recognition system has a chance for people use voice to control machine without manual operation. It’s brought convenient operation and several benefits to human beings. 
+This article is based on LD3320 non-specific speech recognition chip, which is designed a speech recognition system. Furthermore, this system has been used into the intelligent control of desk lamp to make the intelligent control of vehicles come true. First of all, this article takes an agreed opinion to speech recognition system, and gives an introduction of the application for the intelligent desk lamp. It introduces the current development over the world and the prospect of research. After that, is has been designed on the issues of the speech recognition system and the desk lamp control system, also it worked on chip selections and designs, and it included schematic diagram design. Then, it designed the whole technological process of the program of the entire system, and it included the program of speech recognition. Finally, the system was tested, and the results can prove that the system is working stable and reliable, and the speech recognition system can accurately recognize the voice commands and it can carry out in accordance with the command driven off accordingly. 
+The design has a good scalability, it is easy to operate, and it has a very huge advantage of costing. Therefore, it also has a good potential of using and promotion.
+
+* Program Size: Code=7888 RO-data=416 RW-data=44 ZI-data=1636       
+* 日期版本：2015-06-15/V1.0a 
+*******************************************************************************/
+革命尚未成功，同志仍需努力！！！
+不认命，就拼命！！！
+^_^日后细酌T^T

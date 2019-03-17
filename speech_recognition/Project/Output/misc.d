@@ -1,0 +1,15 @@
+..\Output\misc.o: ..\..\Libraries\src\misc.c
+..\Output\misc.o: ..\..\Libraries\inc\misc.h
+..\Output\misc.o: ..\..\CMSIS\STM32F10x\stm32f10x.h
+..\Output\misc.o: ..\..\CMSIS\CoreSupport\core_cm3.h
+..\Output\misc.o: D:\KEIL\KEIL_Pro\keil°²×°\ARM\RV31\INC\stdint.h
+..\Output\misc.o: ..\..\CMSIS\STM32F10x\system_stm32f10x.h
+..\Output\misc.o: ..\..\user\inc\stm32f10x_conf.h
+..\Output\misc.o: ..\..\Libraries\inc\stm32f10x_bkp.h
+..\Output\misc.o: ..\..\CMSIS\STM32F10x\stm32f10x.h
+..\Output\misc.o: ..\..\Libraries\inc\stm32f10x_exti.h
+..\Output\misc.o: ..\..\Libraries\inc\stm32f10x_gpio.h
+..\Output\misc.o: ..\..\Libraries\inc\stm32f10x_rcc.h
+..\Output\misc.o: ..\..\Libraries\inc\stm32f10x_spi.h
+..\Output\misc.o: ..\..\Libraries\inc\stm32f10x_usart.h
+..\Output\misc.o: ..\..\Libraries\inc\misc.h
